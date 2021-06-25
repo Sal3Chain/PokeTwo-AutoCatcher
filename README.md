@@ -1,4 +1,4 @@
-# PokeTwo-AutoCatcher (US$10) - Still Working | First 20 for $5
+# PokeTwo-AutoCatcher - Still Working 
 This is a simple project to Automate catching in PokeTwo (Discord bot) with a few extra features. I have worked on this with a friend and we are not experts in programming so this program is not going to be the best out there. It provides the basics and it does it job so this is the budget version of the SelfBot available in the market today.
 
 #Features
@@ -24,7 +24,7 @@ This is a simple project to Automate catching in PokeTwo (Discord bot) with a fe
 - NO, I will provide you with a short video demonstrating the functionalities of the program and how it works.
 - I am an IT student and this was started to earn some pocket money so I appreciate those who will be purchasing this.
 
-#How to purchase the codes?
+#How to purchase the codes? (for the first 20 purchasee, I will sell it for $5)
 - Message me on discord (saltythree#3908).
 - I will provide the video or I will live stream it for you to see the codes working.
 - I will provide my PayPal and after you sent me the proof of payment.
